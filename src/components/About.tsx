@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+        I am Vivek Singh, a passionate Software and Web Developer with a strong background in the MERN stack, JavaScript, and data structures. I love solving challenging problems and am currently working as a Software Engineer Intern at IDG10, where I contribute to making software solutions more efficient.
         </p>
       </div>
     </div>
